@@ -1,8 +1,8 @@
 .post {
     border: solid black 5px;
     background-color: white;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 600px;
+    margin-right: 600px;
 }
 
 body {
@@ -19,19 +19,19 @@ body {
 
 .icono-menu {
     padding-top: 40px;
-    margin-left: 400px;
+    margin-left: 250px;
     font-size: 60px;
 }
 
 .icono-html {
-    margin-left: 80px;
-    font-size: 60px;
+    margin-left: 40px;
+    font-size: 70px;
     padding-top: 40px;
     margin-right: 40px;
 }
 
 img {
-    width: 700px;
+    width: 625px;
 }
 
 .imagen {
@@ -43,19 +43,31 @@ img {
     text-align: center;
 
 }
-
+.icono{
+    padding: 10px;
+}
 .iconos {
     font-size: 30px;
+    display: flex;
+    justify-content: space-between;
 
 }
 
+.reacciones{
+    display: flex;
+    margin-left: 10px;
+    
+}
+
+
 .icono-guardar {
-    margin-left: 550px;
+    padding: 10px;
+    margin-right: 30px;
 }
 
 .texto {
     font-size: 20px;
-    padding: 30px;
+    padding: 20px;
 
 }
 

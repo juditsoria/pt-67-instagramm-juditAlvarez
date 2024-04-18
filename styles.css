@@ -19,13 +19,13 @@ body {
 
 .icono-menu {
     padding-top: 40px;
-    margin-left: 250px;
-    font-size: 60px;
+    margin-left: 350px;
+    font-size: 50px;
 }
 
 .icono-html {
     margin-left: 40px;
-    font-size: 70px;
+    font-size: 50px;
     padding-top: 40px;
     margin-right: 40px;
 }
@@ -36,7 +36,7 @@ img {
 
 .imagen {
     text-align: center;
-
+    border: black solid 5px;
 }
 
 .cuerpo {
@@ -47,7 +47,7 @@ img {
     padding: 10px;
 }
 .iconos {
-    font-size: 30px;
+    font-size: 35px;
     display: flex;
     justify-content: space-between;
 
@@ -68,7 +68,7 @@ img {
 .texto {
     font-size: 20px;
     padding: 20px;
-
+    text-align: left;
 }
 
 span {
